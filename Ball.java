@@ -2,7 +2,7 @@
  * Description: Paddle ball game implementation
  * 				using timers, mouse events and graphics in Java
  * 
- * author: Priyanka Narasimha Murthy
+
  **/
 package week4;
 
